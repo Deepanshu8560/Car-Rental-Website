@@ -7,4 +7,3 @@ UrbanDrive Rentals is a leading online car rental service designed to make your 
 
 <img src="./ss/car3.png">
 
-<img src="./ss/car4.png">
